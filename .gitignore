@@ -1,0 +1,12 @@
+/backend/node_modules/
+/backend/public/
+/backend/.env
+
+/ecommerce/node_modules/
+/ecommerce/.env
+/ecommerce/public/
+/ecommerce/src/components/helpers/
+
+/frontend/node_modules/
+/frontend/public/
+/frontend/src/components/helpers/

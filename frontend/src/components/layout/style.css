@@ -1,0 +1,32 @@
+
+
+.sidebar {
+    padding-top: 70px;
+    background-color: rgb(245 237 237);
+    box-shadow: inset 2px 2px 7px rgb(29 28 28);
+    height: 100vh;
+}
+
+.sidebar ul{
+    width: 100%;
+}
+
+.sidebar ul li{
+    list-style:none;
+}
+
+.sidebar ul li a{
+    display: block;
+    color: #756969;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 5px 10px;
+    margin: 5px 0 5px 10px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.sidebar ul li a.active{
+    background-color: #252222 !important;
+    color: #a5a2a2 !important;
+}
